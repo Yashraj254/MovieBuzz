@@ -1,9 +1,14 @@
 
 
 <h1 align="center">Movie Buzz</h1></br>
-<p align="center">  
-A movies info app that fetches data from OMDB API gives a brief information about the movie such as movie overview, plot, imdb ratings, box office collection etc. People can watch movie trailers,
-  give ratings, post comments and get movie recommendations.
+<p align="left">  
+A movies info app that fetches data from OMDB API gives a brief information about the movie.
+<b>Search function:&emsp</b>Allows users to search for movies by title, genre, or release date.<br>
+<b>Movie information:</b>  Displays a range of information about the selected movie, such as the title, release date, director, cast, genre, plot summary, runtime, and rating.<br>
+<b>Rating and review system:</b>  Allows users to rate and review movies.<br>
+<b>Notifications:</b>  Provides notifications about new releases or upcoming movies.<br>
+<b>Watch Trailers:</b>  Allows users to watch movie trailers directly through the app.<br>
+<b>Intuitive user interface:</b>  Makes it easy for users to search for and access information about their favorite movies.<br>
 </p>
 </br>
 
